@@ -1,0 +1,8 @@
+[workspace]
+members =[
+    "kv",
+    "db",
+    "custom_type",
+    "inner_type",
+    "inner_type_derive"
+]
